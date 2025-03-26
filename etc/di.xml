@@ -26,7 +26,7 @@
     <type name="Magento\Framework\Console\CommandList">
         <arguments>
             <argument name="commands" xsi:type="array">
-                <item name="test" xsi:type="object">Dutchento\Vatfallback\Console\Command\Validate</item>
+                <item name="dutchento_vatfallback_validate" xsi:type="object">Dutchento\Vatfallback\Console\Command\Validate</item>
             </argument>
         </arguments>
     </type>
